@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "D:\\QA JS (ITHellel)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QA JS (ITHellel)\\nodevars.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nodevars.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QA JS (ITHellel)\\npm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:npm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QA JS (ITHellel)\\npm.cmd||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:npm.cmd||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QA JS (ITHellel)\\npm.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:npm.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QA JS (ITHellel)\\npx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:npx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QA JS (ITHellel)\\npx.cmd||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:npx.cmd||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QA JS (ITHellel)\\npx.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:npx.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QA JS (ITHellel)\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +50,108 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "npm",
+              "DocumentMoniker": "D:\\QA JS (ITHellel)\\npm",
+              "RelativeDocumentMoniker": "npm",
+              "ToolTip": "D:\\QA JS (ITHellel)\\npm",
+              "RelativeToolTip": "npm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-07T14:33:03.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "npm.cmd",
+              "DocumentMoniker": "D:\\QA JS (ITHellel)\\npm.cmd",
+              "RelativeDocumentMoniker": "npm.cmd",
+              "ToolTip": "D:\\QA JS (ITHellel)\\npm.cmd",
+              "RelativeToolTip": "npm.cmd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE6SURBVDhPY6AI/P//H8oiHzBWlpfeBxqlAOWTCBgfMJGi2ds3AIUG660sL/n/69cvDLznyJn/uw6dwioHwyC9QBeggqu3HzDsOHiS4d37Dwxv371nWL/9AMO5yzegspgAwwAWJiaGb9\u002B\u002BM5joaTKYGmgxfPv\u002BjYGFBUMZHGDI/Pn7l\u002BH3718Mf//9ZfgHZP/5/Zvhz5\u002B/UFlMgGHAz58/GRiB9IGjpxj2HTnBwAjknDp7HuiSHxAFaADDACNdDYYwPzcGPh4uhr9Am5\u002B9eMrw6Mljho6\u002BiQw3bt6GqkIAnJ4L9HJh8HS2Yfj44SNDW005w4d37xg4ONigsgiAO3SA4OtXYAACVeQWlTKwsjJjTbl4DVBXVWaoKMpnsLG0YOjtaGNQVMBMc8CkXAxMyoxkJuX/D6CMAQMMDABIjqFEM6osUwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-07T14:33:02.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "npm.ps1",
+              "DocumentMoniker": "D:\\QA JS (ITHellel)\\npm.ps1",
+              "RelativeDocumentMoniker": "npm.ps1",
+              "ToolTip": "D:\\QA JS (ITHellel)\\npm.ps1",
+              "RelativeToolTip": "npm.ps1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-07T14:33:01.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "npx",
+              "DocumentMoniker": "D:\\QA JS (ITHellel)\\npx",
+              "RelativeDocumentMoniker": "npx",
+              "ToolTip": "D:\\QA JS (ITHellel)\\npx",
+              "RelativeToolTip": "npx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-07T14:33:00.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "npx.cmd",
+              "DocumentMoniker": "D:\\QA JS (ITHellel)\\npx.cmd",
+              "RelativeDocumentMoniker": "npx.cmd",
+              "ToolTip": "D:\\QA JS (ITHellel)\\npx.cmd",
+              "RelativeToolTip": "npx.cmd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE6SURBVDhPY6AI/P//H8oiHzBWlpfeBxqlAOWTCBgfMJGi2ds3AIUG660sL/n/69cvDLznyJn/uw6dwioHwyC9QBeggqu3HzDsOHiS4d37Dwxv371nWL/9AMO5yzegspgAwwAWJiaGb9\u002B\u002BM5joaTKYGmgxfPv\u002BjYGFBUMZHGDI/Pn7l\u002BH3718Mf//9ZfgHZP/5/Zvhz5\u002B/UFlMgGHAz58/GRiB9IGjpxj2HTnBwAjknDp7HuiSHxAFaADDACNdDYYwPzcGPh4uhr9Am5\u002B9eMrw6Mljho6\u002BiQw3bt6GqkIAnJ4L9HJh8HS2Yfj44SNDW005w4d37xg4ONigsgiAO3SA4OtXYAACVeQWlTKwsjJjTbl4DVBXVWaoKMpnsLG0YOjtaGNQVMBMc8CkXAxMyoxkJuX/D6CMAQMMDABIjqFEM6osUwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-07T14:32:59.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "npx.ps1",
+              "DocumentMoniker": "D:\\QA JS (ITHellel)\\npx.ps1",
+              "RelativeDocumentMoniker": "npx.ps1",
+              "ToolTip": "D:\\QA JS (ITHellel)\\npx.ps1",
+              "RelativeToolTip": "npx.ps1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-07T14:32:57.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "nodevars.bat",
+              "DocumentMoniker": "D:\\QA JS (ITHellel)\\nodevars.bat",
+              "RelativeDocumentMoniker": "nodevars.bat",
+              "ToolTip": "D:\\QA JS (ITHellel)\\nodevars.bat",
+              "RelativeToolTip": "nodevars.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE6SURBVDhPY6AI/P//H8oiHzBWlpfeBxqlAOWTCBgfMJGi2ds3AIUG660sL/n/69cvDLznyJn/uw6dwioHwyC9QBeggqu3HzDsOHiS4d37Dwxv371nWL/9AMO5yzegspgAwwAWJiaGb9\u002B\u002BM5joaTKYGmgxfPv\u002BjYGFBUMZHGDI/Pn7l\u002BH3718Mf//9ZfgHZP/5/Zvhz5\u002B/UFlMgGHAz58/GRiB9IGjpxj2HTnBwAjknDp7HuiSHxAFaADDACNdDYYwPzcGPh4uhr9Am5\u002B9eMrw6Mljho6\u002BiQw3bt6GqkIAnJ4L9HJh8HS2Yfj44SNDW005w4d37xg4ONigsgiAO3SA4OtXYAACVeQWlTKwsjJjTbl4DVBXVWaoKMpnsLG0YOjtaGNQVMBMc8CkXAxMyoxkJuX/D6CMAQMMDABIjqFEM6osUwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-07T14:29:36.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "README.md",
               "DocumentMoniker": "D:\\QA JS (ITHellel)\\README.md",
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "D:\\QA JS (ITHellel)\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-12-06T15:32:02.549Z",
               "EditorCaption": ""
